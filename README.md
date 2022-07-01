@@ -1,2 +1,3 @@
 # SPC-w-Mtb
-## Helps to use Control Charts and Graphs using python + Minitab
+## Description about to use of Control Charts and Graphs
+## Helps to use control charts, graphs using python + minitab
